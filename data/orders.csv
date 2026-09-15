@@ -1,0 +1,13 @@
+order_id,order_date,region,category,revenue,customer_type
+1001,2024-01-05,West,Furniture,"$1,240.00",New
+1002,01/12/2024,west,Electronics,860,Returning
+1003,"March 3, 2024",W,Furniture,"2,015.50",New
+1004,2024-02-18,East,Electronics,,Returning
+1005,2024-02-19,East,Office Supplies,430,New
+1006,2024/03/01,South,Furniture,"1,100",Returning
+1007,2024-03-02,south,Electronics,720.25,New
+1001,2024-01-05,West,Furniture,"$1,240.00",New
+1009,2024-03-15,North,Office Supplies,300,New
+1010,2024-03-16,north,Furniture,950,Returning
+1011,2024-03-17,N,Electronics,"1,580",New
+1012,2024-03-18,East,Furniture,-150,Returning
